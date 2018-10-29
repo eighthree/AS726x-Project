@@ -14,6 +14,12 @@ AS7261_complete.bin (256k)
 AS7261_ff.bin
 - Resized from 256->512 using Hexfiend
 - Filler: 0xFF
+- Steady Blue Indicator
+
+AS7261_latest.bin
+- Steady Blue Indicator
+- Latest from AMS
+- Filler: 0xFF
 
 AS72651_FW_full-image512k_v1-2-7.bin*
 - No I2C address

@@ -16,7 +16,7 @@ AS7261_ff.bin
 - Filler: 0xFF
 - Steady Blue Indicator
 
-AS7261_latest.bin
+*AS7261_latest.bin*
 - Steady Blue Indicator
 - Latest from AMS
 - Filler: 0xFF
